@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryab1</h1>
-<h3 align="center">A passionate Web developer & Designer from Nepal</h3>
+<h3 align="center">A professional Programmer  from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkaushalkb&label=Profile%20views&color=0e75b6&style=flat" alt="iamkaushalkb" /> </p>
 
